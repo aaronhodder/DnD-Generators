@@ -10,10 +10,9 @@ var grammars = {
 		Air : ["clear", "foggy"],
 		Weird : ["bang", "bellowing"],
 		Furnishing : ["altar", "armchair"],
-		Artifacts : ["bells", "brazier"],
-	
+		Artifacts : ["bells", "brazier"],	
 story : ["The air is #Air# with a #AirCurrents#. The rooms has a #Odors# and on the floor are #GeneralFeatures#. You can see a #Artifacts# and in the distance you can hear #Weird#."],
-origin : ["#story#"],
+origin : "#story#",
 	},
 		
 	
