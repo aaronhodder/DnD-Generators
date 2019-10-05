@@ -230,5 +230,4 @@ punctutation: [",", ":", " ", "!", ".", "?"],
 
     },
 
->>>>>>> parent of 85cda86... Updated options
 }
