@@ -16,10 +16,7 @@ story : ["The air is #Air# with a #AirCurrents#. The rooms has a #Odors# and on 
 origin : ["#story#"]
 	},
 	
-<<<<<<< HEAD
-=======
-	
-			
+		
 	
 
 	neverbar : {
