@@ -15,10 +15,8 @@ var grammars = {
 		Artifacts : ["bells", "brazier"],
 	
 story : ["The air is #Air# with a #AirCurrents#. The rooms has a #Odors# and on the floor are #GeneralFeatures#. You can see a #Artifacts# and in the distance you can hear #Weird#."],
-origin : ["#story#"]
+origin : "#story#"
 	},			
-	
-
 	neverbar : {
         vipTitle : ["Dr.", "Professor", "Lord", "Sir", "Captain", "His Majesty"],
         occupationBase : ["firefighter", "scientist", "spy", "smuggler", "mechanic", "astronaut", "adventurer", "pirate", "cowboy", "vampire", "detective", "soldier", "marine", "doctor", "ninja"],
